@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 10px;
+}
+
+header {
+  background: linear-gradient(135deg, #212529, #343a40);
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer img {
+  border: 2px solid #ccc;
+}
+
+#carouselDestaques img {
+  max-height: 400px;
+  object-fit: cover;
+}
