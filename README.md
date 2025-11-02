@@ -9,7 +9,7 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 - Nome: Ronaldo Coelho Junior
 - Matricula: 898895
 - Proposta de projeto escolhida: Pessoa - Autor e suas Obras
-- Breve descrição sobre seu projeto: Criação de uma página dedicada ao autor Sidney Shelson, informando sobre suas principais obras.
+- Breve descrição sobre seu projeto: Criação de página dedicada ao autor Sidney Shelson, informando sobre suas principais obras.
 
 **Print dos testes da API com Postman ou similar**
 
