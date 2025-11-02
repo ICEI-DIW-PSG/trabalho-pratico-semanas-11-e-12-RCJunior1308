@@ -1,6 +1,21 @@
 {
   "obras": [
     {
+      "id": "1",
+      "titulo": "A Outra Face",
+      "descricao": "Um romance sobre escândalos e segredos de Hollywood.",
+      "imagem": "assets/image/1.jpg",
+      "detalhes": "Publicado em 1970, foi seu primeiro romance de sucesso.",
+      "fotos": [
+        "assets/image/1a.jpg",
+        "assets/image/1a.jpg",
+        "assets/image/1c.jpg"
+      ],
+      "ano": 1970,
+      "resumo": "A outra face é um thriller psicologicamente intenso. Vencedor do Edgar Allan Poe, um dos mais importantes prêmios para escritores de mistério e suspense, o livro conta a história de Judd Stevens. Psicanalista bem sucedido, ele se vê subitamente imerso numa rede de intrigas que pode lhe custar a liberdade... e a vida. Duas pessoas de seu circulo pessoal foram assassinadas. Terá sido obra de algum de seus pacientes? Talvez um neurótico movido por uma louca compulsão? Entre os suspeitos estão uma atriz decadente e ninfomaníaca, um pai de família com tendências homossexuais, um empresário problemático, uma jovem misteriosa e, por que não, até mesmo o próprio Dr. Stevens... Se não conseguir penetrar na mente deste perigoso assassino, o psicanalista pode ser preso. Ou, algo ainda mais aterrador, ele pode ser a próxima vítima. Antes que o assassino volte a atacar, Dr. Stevens precisa revelar sua identidade e expor suas emoções, medos e desejos.",
+      "destaque": true
+    },
+    {
       "id": "2",
       "titulo": "O Outro Lado da Meia-Noite",
       "descricao": "Drama de vingança e paixão ambientado na 2ª Guerra Mundial.",
@@ -269,12 +284,6 @@
       "ano": 2009,
       "resumo": "Neste livro a Kruger-Brent criada gerações antes por Jamie McGregor - Escocês que migrou para a África do Sul. Fazendo fortuna com seu império de diamantes. - Está nas mãos de Peter Templeton que prova não ter aptidão nenhuma para os negócios da família. Kate Blackwell filha de Jaime McGregor deixa a herança para a neta Alexandra e exclui Eve (a gêmea má) do testamento. Alexandra tem dois filhos com Peter Templeton: Robert e Lexi os herdeiros da Kruger-Brent. Eve tem um filho com o cirurgião Keith Webster: Max o qual usa para concretizar sua vingança por ter sido excluída da herança da família. Max cresce odiando seus primos por incentivo de sua mãe, mas acaba se apaixonando pela prima. A história conta também a saga de Gabriel McGregor sobrinho-neto de Jamie McGregor que resolve fazer fortuna para deixar a miséria em que vivia. - Ao deixar a Escócia Jamie foi tachado como louco pelos irmãos, somente sua irmã e sua mãe o apoiaram. Com a morte destas, Jamie abandona a família sem nenhum tostão.- Diferente de seus pais que viveram amargurados por não terem sido incluídos na fortuna de Jaime, Gabe deixa sua terra decidido a esquecer o passado e se tornar feliz. Mas em meio a sua busca o passado se depara com ele e sua vida é balançada por um furacão chamado Kruger-Brent.",
       "destaque": false
-    },
-    {
-      "id": "4486",
-      "titulo": "O Reverso da Medalha",
-      "ano": 1982,
-      "descricao": "Kate Black é símbolo do sucesso e poder."
     }
   ]
 }
