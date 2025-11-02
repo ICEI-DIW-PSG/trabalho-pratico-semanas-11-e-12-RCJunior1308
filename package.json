@@ -1,16 +1,15 @@
 {
-  "name": "template-diw-20251-semana-11",
+  "name": "sidney-sheldon-obras",
   "version": "1.0.0",
-  "description": "Back end com JSONServer. Projeto da disciplina de Desenvolvimento de Interfaces Web de vários cursos da PUC Minas",
-  "main": "",
+  "description": "Projeto da disciplina DIW - Aplicação CRUD completa com JSON Server baseada nas obras de Sidney Sheldon",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx json-server ./db/db.json"
+    "start": "npx json-server --watch ./db/db.json --port 3000"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["json-server", "crud", "diw", "sidney-sheldon"],
+  "author": "Ronaldo Coelho Junior",
   "license": "ISC",
   "dependencies": {
-    "json-server": "0.17.0"
+    "json-server": "^0.17.0"
   }
 }

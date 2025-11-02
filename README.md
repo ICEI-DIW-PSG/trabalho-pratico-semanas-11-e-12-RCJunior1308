@@ -6,24 +6,31 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Ronaldo Coelho Junior
+- Matricula: 898895
+- Proposta de projeto escolhida: Pessoa - Autor e suas Obras
+- Breve descrição sobre seu projeto: Criação de uma página dedicada ao autor Sidney Shelson, informando sobre suas principais obras.
 
 **Print dos testes da API com Postman ou similar**
 
 << COLOQUE A IMAGEM GET AQUI >>
+![Print GET](./public/assets/image/printGET.jpg)
 
 << COLOQUE A IMAGEM POST AQUI >>
+![Print POST](./public/assets/image/printPOST.jpg)
 
 << COLOQUE A IMAGEM PUT AQUI >>
+![Print PUT](./public/assets/image/printPUT.jpg)
 
 << COLOQUE A IMAGEM DELETE AQUI >>
+![Print DELETE](./public/assets/image/printDELETE.jpg)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Print GET Network](./public/assets/image/printGETnetwork.jpg)
+
+![Print POST Network](./public/assets/image/printPOSTnetwork.jpg)
 
 ## **Orientações Gerais**
 
