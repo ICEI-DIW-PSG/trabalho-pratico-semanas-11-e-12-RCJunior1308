@@ -8,11 +8,11 @@
       "detalhes": "Publicado em 1970, foi seu primeiro romance de sucesso.",
       "fotos": [
         "assets/image/1a.jpg",
-        "assets/image/1a.jpg",
+        "assets/image/1b.jpg",
         "assets/image/1c.jpg"
       ],
       "ano": 1970,
-      "resumo": "A outra face é um thriller psicologicamente intenso. Vencedor do Edgar Allan Poe, um dos mais importantes prêmios para escritores de mistério e suspense, o livro conta a história de Judd Stevens. Psicanalista bem sucedido, ele se vê subitamente imerso numa rede de intrigas que pode lhe custar a liberdade... e a vida. Duas pessoas de seu circulo pessoal foram assassinadas. Terá sido obra de algum de seus pacientes? Talvez um neurótico movido por uma louca compulsão? Entre os suspeitos estão uma atriz decadente e ninfomaníaca, um pai de família com tendências homossexuais, um empresário problemático, uma jovem misteriosa e, por que não, até mesmo o próprio Dr. Stevens... Se não conseguir penetrar na mente deste perigoso assassino, o psicanalista pode ser preso. Ou, algo ainda mais aterrador, ele pode ser a próxima vítima. Antes que o assassino volte a atacar, Dr. Stevens precisa revelar sua identidade e expor suas emoções, medos e desejos.",
+      "resumo": "A outra face é um thriller psicologicamente intenso. Vencedor do Edgar Allan Poe, um dos mais importantes prêmios para escritores de mistério e suspense, o livro conta a história de Judd Stevens...",
       "destaque": true
     },
     {
@@ -27,7 +27,7 @@
         "assets/image/2c.jpg"
       ],
       "ano": 1973,
-      "resumo": "A sensual Noelle é uma famosa atriz que sai dos bairros pobres de Marselha para o sucesso no cinema. A americana Catherine é uma profissional bem-sucedida, mas totalmente insegura com o sexo masculino em geral. O piloto e herói de guerra Larry Douglas, por quem as duas se apaixonam em diferentes épocas de suas vidas, fecha o triângulo amoroso que desperta o ódio do magnata grego Constatin Demiris, amante de Noelle, um homem que não esquece nem perdoa. Paris, Washington e a lendária Atenas são o cenário de um jogo no qual a jovem americana torna-se a grande presa. A inocente Catherine comete o maior erro de sua vida ao apaixonar-se pelo piloto Douglas. Ela não imaginava que o herói de guerra tivesse uma história de amor mal resolvida com Noelle, atriz francesa em ascensão, que não quer ser o lado mais fraco desse triângulo amoroso. Para atingir seus objetivos e conquistar Larry de vez, Noelle se envolve com o poderoso magnata Constantin Demiris. A atriz começa então a planejar sua terrível vingança, que mudará para sempre o destino de todos os envolvidos nesta história.",
+      "resumo": "A sensual Noelle é uma famosa atriz que sai dos bairros pobres de Marselha...",
       "destaque": true
     },
     {
@@ -42,13 +42,13 @@
         "assets/image/3c.jpg"
       ],
       "ano": 1976,
-      "resumo": "Em Um Estranho no Espelho, Sidney Sheldon nos presenteia com uma história emocionante e envolvente que explora os temas do amor, da perda e da redenção. O livro conta a história de Tony Rome, um detetive particular de Nova York que se vê envolvido em uma teia de mentiras, traições e assassinatos. Tony Rome é um personagem complexo e multifacetado. Ele é um homem duro e cínico, mas também possui um coração de ouro. Rome é um solitário, mas também é leal aos seus amigos e familiares. Ele é um homem que já viu muita coisa na vida, mas ainda acredita na justiça e na verdade.",
+      "resumo": "Em Um Estranho no Espelho, Sidney Sheldon nos presenteia com uma história emocionante...",
       "destaque": false
     },
     {
       "id": "4",
       "titulo": "A Herdeira",
-      "descricao": "Em A herdeira, de Sidney Sheldon, os rastros da misteriosa morte do empresário Sam Roffe perturbam a vida de sua filha Elizabeth.",
+      "descricao": "Os rastros da misteriosa morte do empresário Sam Roffe perturbam a vida de sua filha Elizabeth.",
       "imagem": "assets/image/4.jpg",
       "detalhes": "Publicado em 1977.",
       "fotos": [
@@ -57,7 +57,7 @@
         "assets/image/4c.jpg"
       ],
       "ano": 1977,
-      "resumo": "Em A Herdeira, a história gira em torno de Elizabeth Roffe, filha do empresário Sam Roffe, que é encontrado morto sob circunstâncias misteriosas. Com a morte do pai, Elizabeth herda a presidência da Roffe & Filhos, uma das maiores companhias farmacêuticas do mundo. No entanto, sua ascensão ao poder não é tranquila, pois ela se vê envolvida em uma teia de intrigas, sabotagens e assassinatos, à medida que pessoas próximas começam a mostrar interesse na fortuna da empresa.",
+      "resumo": "A história gira em torno de Elizabeth Roffe, filha do empresário Sam Roffe, que é encontrado morto sob circunstâncias misteriosas...",
       "destaque": false
     },
     {
@@ -72,13 +72,13 @@
         "assets/image/5c.jpg"
       ],
       "ano": 1980,
-      "resumo": "A Ira dos Anjos é uma obra intrigante escrita por Sidney Sheldon, publicada pela primeira vez em 1994. Nesse romance de suspense e tensão, o autor explora temas como ambição, vingança, traição e amor. A história gira em torno de uma jovem chamada Paulique, uma artista talentosa que se vê envolvida em uma trama envolvendo crime e corrupção. Ao longo do enredo, os leitores são levados em uma jornada repleta de reviravoltas emocionantes e personagens complexos. A trama começa com Paulique, que luta para se destacar em uma sociedade dominada por homens e busca reconhecimento no mundo da arte. Sua vida muda radicalmente quando ela se envolve com um criminoso notório, que a arrasta para um mundo de intrigas e ameaças. Enquanto tenta se desvencilhar desse ciclo vicioso, Paulique se vê em meio a um jogo mortal onde seus talentos e sua vida estão em risco. A narrativa de Sheldon capta a intensidade das emoções humanas e a luta por poder e sobrevivência.",
+      "resumo": "A Ira dos Anjos é uma obra intrigante escrita por Sidney Sheldon...",
       "destaque": true
     },
     {
       "id": "6",
       "titulo": "O Reverso da Medalha",
-      "descricao": "Kate Black é símbolo do sucesso, uma linda mulher que transformou sua herança em império internacional",
+      "descricao": "Kate Black é símbolo do sucesso, uma linda mulher que transformou sua herança em império internacional.",
       "imagem": "assets/image/6.jpg",
       "detalhes": "Publicado em 1982.",
       "fotos": [
@@ -87,7 +87,7 @@
         "assets/image/6c.jpg"
       ],
       "ano": 1982,
-      "resumo": "Começa com o personagem Jamie McGregor, um garoto pobre, mas honesto e que sonhava em ser rico para dar melhores condições de vida a sua família. Então, ele sai de sua casa, na Escócia, e embarca para a África do Sul, em busca de diamantes.O garoto sofreu muito e, logo que chegou na África e teve sua primeira descoberta, fora enganado por Salomon Van Der Merwe e isso fez com que nele crescesse um sentimento de vingança. Jamie conta com a ajuda de Banda, um negro, também empregado de Salomon. Para que o plano de vingança fosse realmente concluído, Jamie engravidou a filha de Salomon, Margareth, e recusou-se a casar com ela. Assim que a criança nasce, Margareth, que ainda tinha sentimentos por Jamie, deixa o filho, Jamie, na casa dele durante uma semana. Quando ela volta, Jamie lhe informa que quer ficar com a criança, mas não queria ficar com Margareth. Ela convence-o a se casar com ela, mas o casamento não se consumava. Jamie não mantinha relações com elas, mas sim com as prostitutas da cidade. Até que, uma noite, ao chegar bêbado em casa, ele dorme com Margareth e, nessa noite, é gerada Kate McGregor.",
+      "resumo": "Começa com o personagem Jamie McGregor, um garoto pobre, mas honesto e que sonhava em ser rico...",
       "destaque": false
     },
     {
@@ -95,20 +95,20 @@
       "titulo": "Se Houver Amanhã",
       "descricao": "Tracy Whitney enfrenta vingança e se torna uma vigarista brilhante.",
       "imagem": "assets/image/7.jpg",
-      "detalhes": "Publicado em 1985, um dos maiores sucessos do autor.",
+      "detalhes": "Publicado em 1985.",
       "fotos": [
         "assets/image/7a.jpg",
         "assets/image/7b.jpg",
         "assets/image/7c.jpg"
       ],
       "ano": 1985,
-      "resumo": "Tracy é uma jovem idealista, trabalha em um banco e está noiva do socialite Charles Stanhope III. Custa a crer na sorte que tem e está radiante de felicidade. Mas o suicídio de sua mãe muda todo o seu destino: ao descobrir que a mãe se matou por não suportar perder todo o patrimônio que o marido lhes deixara para Joe Romano - integrante da máfia - Tracy resolve tirar satisfações com o mesmo, e se vê enredada numa armação criminosa que a leva a ser presa e condenada por roubo e tentativa de homicídio. Na prisão ela tenta falar com o noivo, que a despreza e abandona sem nem tentar ouvi-la e entender o que aconteceu. Na penitenciária ela se vê cercada das criminosas mais violentas que jamais imaginou existir e, ao ser estuprada e violentada por elas, perde o bebê que estava esperando, mas começa a enxergar sua nova realidade: o mundo que conhecia não existia mais, a mãe maravilhosa e carinhosa estava morta e o noivo perfeito não a queria mais, e se quisesse sobreviver para se vingar daqueles que a haviam colocado ali, teria que mostrar a todos quem ela era. Conseguiu impor sua posição dentro da cela e ganhou a amizade e o respeito da chefe de suas companheiras. A ajuda desta chefe, a negra Ernestine Littlechap, a protegeria também dos assédios da chefe de um grupo rival: Big Bertha, uma homossexual grandalhona e agressiva.",
+      "resumo": "Tracy é uma jovem idealista, trabalha em um banco e está noiva do socialite Charles Stanhope III...",
       "destaque": false
     },
     {
       "id": "8",
       "titulo": "Um Capricho dos Deuses",
-      "descricao": "Estreitar as relações com os países da Cortina de Ferro. Esse era um objetivo do recém eleito e idealista presidente norte-americano, Paul Ellison.",
+      "descricao": "Estreitar as relações com os países da Cortina de Ferro.",
       "imagem": "assets/image/8.jpg",
       "detalhes": "Publicado em 1987.",
       "fotos": [
@@ -117,13 +117,13 @@
         "assets/image/8c.jpg"
       ],
       "ano": 1987,
-      "resumo": "A trama se desenrola em torno de um ambicioso e envolvente mundo de teatro, glamour e intrigas, quando uma nascida em berço de ouro se vê em uma encruzilhada entre o desejo pessoal e as expectativas sociais. A protagonista, uma jovem chamada Kate Browning, mergulha de cabeça nos altos e baixos do mundo das celebridades, navegando por relacionamentos complicados e conflitos de lealdade, enquanto descobre os segredos obscuros de sua própria família. A narrativa é repleta de reviravoltas e surpresas, características do estilo de Sheldon, com seus enredos meticulosamente elaborados. A exploração da vida dramatúrgica e de suas tensões, tanto pessoais quanto profissionais, leva o leitor a refletir sobre a natureza do sucesso, da fama e das escolhas que fazemos ao longo da vida.",
+      "resumo": "A trama se desenrola em torno de um ambicioso e envolvente mundo de teatro, glamour e intrigas...",
       "destaque": false
     },
     {
       "id": "9",
       "titulo": "As Areias do Tempo",
-      "descricao": "Em cantos opostos de um sangrento conflito, o carismático líder guerrilheiro Jaime Miró e o corrupto e sádico repressor governista Ramón Acoca estão dispostos a morrer pelos seus ideais.",
+      "descricao": "Conflito entre o guerrilheiro Jaime Miró e o repressor governista Ramón Acoca.",
       "imagem": "assets/image/9.jpg",
       "detalhes": "Publicado em 1988.",
       "fotos": [
@@ -132,7 +132,7 @@
         "assets/image/9c.jpg"
       ],
       "ano": 1988,
-      "resumo": "O romance apresenta uma narrativa envolvente que mistura drama, romance e mistério, levando os leitores a uma viagem emocionante através do tempo e das relações humanas. A trama gira em torno de uma série de eventos que afetam a vida de uma mulher, desde a sua infância em um ambiente conturbado até sua jornada como uma renomada diretora de cinema. Com personagens carismáticos e reviravoltas inesperadas, Sheldon capta a essência das emoções e desafios enfrentados ao longo da vida. Neste livro, a protagonista, Elizabeth, é apresentada como uma mulher forte e determinada, mas marcada pelo passado e pelas escolhas difíceis que teve que fazer. A história se desenrola em diferentes períodos de sua vida, com flashbacks que revelam como suas experiências moldaram sua personalidade e suas decisões. Entrelaçando romance e drama, a narrativa explora temas como amor, traição, ambição e a inevitabilidade do tempo, o que torna “As Areias do Tempo” uma leitura envolvente que ressoa com muitos leitores.",
+      "resumo": "O romance apresenta uma narrativa envolvente que mistura drama, romance e mistério...",
       "destaque": false
     },
     {
@@ -147,13 +147,13 @@
         "assets/image/10c.jpg"
       ],
       "ano": 1979,
-      "resumo": "A sinistra rua Tung Tau Tsuen, Kowloon,China e o contrato para um crime perfeito. Olhares frios e insidiosos, o acerto da morte de Catherine Alexander em Londres. O contratante é alguém muito importante. A casa azul, local de prazeres e luxúria. O prazer pelas mãos e lábios gêmeos levando à exploração de corpos e ao limite da saciação carnal. Assim começa o livro de Sidney Sheldon, roteirista ,diretor, produtor e romancista. Sua obra é apresentada em livros, filmes, TV, teatro, trazendo o mistério, o suspense,a trama,o amor,o humor,...Todos os seus livros não ficam apenas no encardenado de alta qualidade, ultrapassam barreiras, ganham e conquistam outros públicos, com a marca da excelência. A leitura é envolvente do começo ao fim.",
+      "resumo": "A sinistra rua Tung Tau Tsuen, Kowloon, China e o contrato para um crime perfeito...",
       "destaque": false
     },
     {
       "id": "11",
       "titulo": "Juízo Final",
-      "descricao": "A história começa com a morte misteriosa de um poderoso magnata, o que desencadeia uma série de eventos que colocam em xeque a segurança global.",
+      "descricao": "A morte misteriosa de um magnata desencadeia uma conspiração global.",
       "imagem": "assets/image/11.jpg",
       "detalhes": "Publicado em 1991.",
       "fotos": [
@@ -162,7 +162,7 @@
         "assets/image/11c.jpg"
       ],
       "ano": 1991,
-      "resumo": "O livro Juízo Final de Sidney Sheldon segue a história do Comandante Robert Bellamy, um oficial naval de alto escalão, que é designado para descobrir as identidades misteriosas de testemunhas de um balão meteorológico derrubado, rumoroso ser uma nave extraterrestre. Bellamy embarca em uma busca que atravessa o globo, repleta de enganos, perigos e uma conspiração de proporções inimagináveis. À medida que ele desvela camadas de segredos, descobre forças poderosas alinhadas contra ele, dispostas a tudo para proteger suas agendas clandestinas, mesmo que isso signifique acabar com sua vida. A cada página mais eletrizante que a anterior, Juízo Final convida você a mergulhar em uma história emocionante de perigo e intriga, desafiando o próprio tecido da realidade e desencadeando uma corrida incansável contra o tempo que o deixará sem fôlego.",
+      "resumo": "O livro Juízo Final segue o Comandante Robert Bellamy em uma missão global repleta de segredos e perigos.",
       "destaque": false
     },
     {
@@ -172,18 +172,18 @@
       "imagem": "assets/image/12.jpg",
       "detalhes": "Publicado em 1992.",
       "fotos": [
-        "assets/assets/image/12a.jpg",
+        "assets/image/12a.jpg",
         "assets/image/12b.jpg",
         "assets/image/12c.jpg"
       ],
       "ano": 1992,
-      "resumo": "Uma História de Amor e Perda, no coração de Escrito Nas Estrelas está a história de amor entre dois jovens, Alex e Noelle. Alex é um jovem brilhante e ambicioso que sonha em se tornar um grande advogado. Noelle é uma jovem talentosa e independente que sonha em se tornar uma famosa atriz. Os dois se apaixonam perdidamente e acreditam que estão destinados a ficar juntos para sempre. No entanto, o destino tem outros planos para eles. Um acidente de carro tira a vida de Noelle, deixando Alex devastado. Ele se culpa pela morte dela e se afunda em uma espiral de tristeza e desespero. Uma Jornada de Redenção Anos depois, Alex ainda está lutando para superar a perda de Noelle. Ele se tornou um advogado bem-sucedido, mas sua vida pessoal está em ruínas. Ele é atormentado por pesadelos e culpa, e não consegue encontrar a felicidade. Um dia, Alex recebe uma carta misteriosa que o leva a uma jornada de redenção. Ele descobre que Noelle deixou para ele uma série de pistas que o levarão a descobrir a verdade sobre sua morte. Uma Trama Cheia de Suspense Escrito Nas Estrelas é uma história cheia de suspense e reviravoltas surpreendentes. À medida que Alex segue as pistas deixadas por Noelle, ele se depara com uma conspiração sombria que envolve assassinato, traição e mentiras. Ele logo percebe que está em perigo e que sua vida está em jogo. Mas ele está determinado a descobrir a verdade, não importa o custo.",
+      "resumo": "Uma história cheia de suspense e reviravoltas surpreendentes...",
       "destaque": false
     },
     {
       "id": "13",
       "titulo": "Nada Dura para Sempre",
-      "descricao": "Três amigas com personalidades bastante diferentes, mas unidas pela correria, pelos contratempos e pelas fortes emoções de trabalhar no Hospital Público Embarcadero.",
+      "descricao": "Três amigas e as emoções de trabalhar em um hospital movimentado.",
       "imagem": "assets/image/13.jpg",
       "detalhes": "Publicado em 1994.",
       "fotos": [
@@ -192,13 +192,13 @@
         "assets/image/13c.jpg"
       ],
       "ano": 1994,
-      "resumo": "Esta obra, com a típica maestria do autor, é uma intrigante história de amor, ambição e traição, ambientada no mundo dos altos círculos sociais e das intrigas de Hollywood. O romance segue a vida de três personagens principais, cujas trajetórias se cruzam de maneira dramática e inesperada ao longo da narrativa. A trama centra-se em Kate Browning, uma atriz talentosa que alcança a fama em Hollywood, mas não sem enfrentar os altos e baixos desse estilo de vida glamoroso e traiçoeiro. Ao longo do caminho, Kate se vê envolvida em situações de amor e ciúmes, enquanto busca um equilíbrio entre sua vida pessoal e profissional. O autor, conhecido por seu gosto pela ação e reviravoltas, não decepciona seus leitores, apresentando uma série de eventos que desafiam a lealdade e a moral de cada personagem.",
+      "resumo": "Uma intrigante história de amor, ambição e traição, ambientada em Hollywood.",
       "destaque": true
     },
     {
       "id": "14",
       "titulo": "Manhã, Tarde e Noite",
-      "descricao": "Harry Stanford, um dos homens mais ricos e influentes do mundo, morre afogado em circunstâncias suspeitas ao cair de seu iate na tempestuosa costa da Córsega.",
+      "descricao": "Harry Stanford, magnata, morre em circunstâncias misteriosas.",
       "imagem": "assets/image/14.jpg",
       "detalhes": "Publicado em 1995.",
       "fotos": [
@@ -207,13 +207,13 @@
         "assets/image/14c.jpg"
       ],
       "ano": 1995,
-      "resumo": "Um homem de personalidade forte e complicada, dono de uma fortuna incalculável e sempre implacável em relação aos seus inimigos, essa é a descrição de Harry Stanford. Sua falta de fidelidade com a esposa o levou a traí-la com a empregada, Rosemary uma mulher amada por seus filhos. O que ele não esperava era que essa traição fosse se tornar publica, quando foi descoberta vazou para todos os jornais. A Sra. Stanford não agüentou tanta humilhação e acabou se matando, fazendo com que seus filhos alimentassem certo ódio pelo pai. Harry decide então separar os filhos colocando-os em internatos diferentes. Após vinte e cinco anos desde o escândalo Harry percebe que esta sendo seguido, os negócios em que está envolvido são tão importantes, que não poderia vazar nenhuma infomação. Decide então ir para a Córsega em seu Blue Skies, um barco. No caminho liga para Fitzgerald, seu advogado pessoal e diz para preparar os papeis do testamento porque iria mudá-lo. No meio da viagem Harry cai no mar e morre afogado. A unica testemunha do acidente, era o seu guarda que alegou ter visto papeis voando e Harry tentando recuperá-los, no meio dessa tentativa ele perdeu o equilíbrio e caiu. A morte de Harry era um acontecimento que beneficiaria todos os seus filhos, fora que todos o queriam morto.",
+      "resumo": "A morte de Harry Stanford beneficia todos os seus filhos — mas ninguém é inocente.",
       "destaque": false
     },
     {
       "id": "15",
       "titulo": "O Plano Perfeito",
-      "descricao": "Duas pessoas igualmente obstinadas em rota de colisão. Uma, o governador do Kentucky, Oliver Russell. Um homem com planos de ganhar a Casa Branca. A outra, a bela e ambiciosa Leslie Stewart.",
+      "descricao": "O governador do Kentucky e a ambiciosa Leslie Stewart entram em rota de colisão.",
       "imagem": "assets/image/15.jpg",
       "detalhes": "Publicado em 1997.",
       "fotos": [
@@ -222,7 +222,7 @@
         "assets/image/15c.jpg"
       ],
       "ano": 1997,
-      "resumo": "A história gira em torno de um grupo de amigos que se reúnem para comemorar a formatura em uma escola de elite em Los Angeles. A protagonista, uma jovem chamada Maggie, é uma mulher ambiciosa e decidida que, após a formatura, busca realizar seus sonhos na vida profissional. Ao longo do livro, Maggie se envolve em uma série de eventos que revelam um plano de vingança elaborado por um ex-colega, Rick, que foi rejeitado por um grupo de amigos durante os anos escolares. Rick, determinado a se vingar daqueles que o desprezaram, elabora um plano meticuloso que envolve crime, intriga e manipulação.",
+      "resumo": "Um plano meticuloso que envolve crime, intriga e manipulação.",
       "destaque": true
     },
     {
@@ -237,7 +237,7 @@
         "assets/image/16c.jpg"
       ],
       "ano": 1998,
-      "resumo": "Ashley é uma jovem de vinte anos que trabalha em uma empresa de informática onde vive em constante estresse. De uns tempos para cá, ela vem se sentindo estranha e tem certeza que tem alguém a seguindo e a ameaçando de morte. Apesar desse sentimento de perseguição, ela nunca viu ninguém suspeito que pudesse dar razão a essa sua paranoia. Apenas coisas sutis acontecem, como: voltar para casa e encontrar todas as luzes acesas, sua gaveta de lingerie estar diferente da forma que ela costuma deixar. Toni não gosta de Ashley e, para falar a verdade, de quase ninguém. Ela é difícil de lidar e a única coisa que parece realmente gostar é de cantar e tocar piano. Alette é doce, sensível, gosta de passear em museus e tudo que envolva arte. Sua maior paixão é pintar. O que três personalidades totalmente diferentes têm em comum? Uma série de cinco assassinatos que deixaram seus rastros como suspeitas, ou melhor dizendo, deixou apenas Ashley como suspeita. Vocês devem estar se perguntando: mas como assim? Não eram três? E se eu disser a vocês que Ashley, Toni e Alette são a mesma pessoa? Que moram na mesma cabeça?",
+      "resumo": "Ashley, Toni e Alette — três mulheres, uma só mente. Uma série de assassinatos conecta suas vidas.",
       "destaque": false
     },
     {
@@ -252,13 +252,13 @@
         "assets/image/17c.jpg"
       ],
       "ano": 2000,
-      "resumo": "Sheldon nos conta a história da jornalista Dana Evans que, de volta a Washington depois de uma temporada de trabalho em Sarajevo, luta para ter um bom relacionamento com o filho que adotou na região, um problemático garoto de doze anos que perdeu os pais e a irmã, mortos durante a guerra da Bósnia. Ao retornar ao trabalho, Dana entrevista o jovem milionário e provável candidato ao Senado, Gary Winthrop, que, no dia seguinte, é assassinado em sua casa por ladrões de obras de arte. Tudo leva a crer tratar-se de um crime comum, mas Dana desconfia de ladrões que matam sua vítima e se esquecem de levar as obras mais valiosas. E resolve investigar o caso mais profundamente. Logo descobre que, nos últimos meses, outros cinco membros da família Winthrop, uma das mais generosas, poderosas e famosas do mundo, também morreram em acidentes fatais. ",
+      "resumo": "Dana Evans descobre que a morte da família Winthrop pode esconder algo muito mais sombrio.",
       "destaque": false
     },
     {
       "id": "18",
       "titulo": "O Outro Lado de Mim",
-      "descricao": "A história gira em torno de Noelle Page, uma jovem e talentosa atriz que se vê envolvida em uma teia de mentiras, traições e assassinatos.",
+      "descricao": "A história de uma jovem atriz envolvida em uma teia de traições.",
       "imagem": "assets/image/18.jpg",
       "detalhes": "Publicado em 2005.",
       "fotos": [
@@ -267,37 +267,23 @@
         "assets/image/18c.jpg"
       ],
       "ano": 2005,
-      "resumo": "O Outro Lado de Mim é um romance envolvente e emocionante de Sidney Sheldon, um dos mestres do suspense. A história gira em torno de Noelle Page, uma jovem e talentosa atriz que se vê envolvida em uma teia de mentiras, traições e assassinatos. Noelle é uma jovem que sempre sonhou em ser atriz. Ela é bonita, talentosa e determinada, e finalmente consegue sua grande chance quando é escalada para o papel principal em uma nova série de TV. Mas o que ela não sabe é que sua vida está prestes a mudar para sempre. Durante as filmagens da série, Noelle conhece um homem misterioso chamado Julian. Julian é charmoso, sedutor e parece ser o homem perfeito. Mas Noelle logo descobre que ele é um criminoso perigoso. Julian está envolvido em uma rede de tráfico de drogas e assassinatos, e ele não vai deixar que ninguém atrapalhe seus planos. Noelle se vê presa em uma situação perigosa. Ela está apaixonada por Julian, mas sabe que ele é um homem perigoso. Ela quer escapar, mas Julian não vai deixar que ela vá. Noelle precisa encontrar uma maneira de se livrar de Julian e salvar sua própria vida.",
+      "resumo": "Noelle Page, uma atriz em ascensão, descobre que o sucesso pode ter um preço mortal.",
       "destaque": false
     },
     {
       "id": "19",
       "titulo": "A Senhora do Jogo",
-      "descricao": "Continuação de O Reverso da Medalha, escrita com Tilly Bagshawe.",
+      "descricao": "Continuação de O Reverso da Medalha.",
       "imagem": "assets/image/19.jpg",
-      "detalhes": "Publicado em 2009 (póstumo).",
+      "detalhes": "Publicado em 2009.",
       "fotos": [
         "assets/image/19a.jpg",
         "assets/image/19b.jpg",
         "assets/image/19c.jpg"
       ],
       "ano": 2009,
-      "resumo": "Neste livro a Kruger-Brent criada gerações antes por Jamie McGregor - Escocês que migrou para a África do Sul. Fazendo fortuna com seu império de diamantes. - Está nas mãos de Peter Templeton que prova não ter aptidão nenhuma para os negócios da família. Kate Blackwell filha de Jaime McGregor deixa a herança para a neta Alexandra e exclui Eve (a gêmea má) do testamento. Alexandra tem dois filhos com Peter Templeton: Robert e Lexi os herdeiros da Kruger-Brent. Eve tem um filho com o cirurgião Keith Webster: Max o qual usa para concretizar sua vingança por ter sido excluída da herança da família. Max cresce odiando seus primos por incentivo de sua mãe, mas acaba se apaixonando pela prima. A história conta também a saga de Gabriel McGregor sobrinho-neto de Jamie McGregor que resolve fazer fortuna para deixar a miséria em que vivia. - Ao deixar a Escócia Jamie foi tachado como louco pelos irmãos, somente sua irmã e sua mãe o apoiaram. Com a morte destas, Jamie abandona a família sem nenhum tostão.- Diferente de seus pais que viveram amargurados por não terem sido incluídos na fortuna de Jaime, Gabe deixa sua terra decidido a esquecer o passado e se tornar feliz. Mas em meio a sua busca o passado se depara com ele e sua vida é balançada por um furacão chamado Kruger-Brent.",
+      "resumo": "A saga da família Kruger-Brent continua entre poder, fortuna e vingança.",
       "destaque": false
-    },
-    {
-      "id": "442e",
-      "titulo": "AAA",
-      "ano": "2025",
-      "descricao": "AAAAAAAAAAA",
-      "imagem": "assets/image/default.jpg"
-    },
-    {
-      "id": "6b13",
-      "titulo": "bbb",
-      "ano": "2030",
-      "descricao": "bbbbbbb",
-      "imagem": "assets/image/default.jpg"
     }
   ]
 }

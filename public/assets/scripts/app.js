@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/obras";
+const API_URL = "http://127.0.0.1:3000/obras";
 
 function carregarAutor() {
   const autor = {
@@ -22,6 +22,7 @@ async function carregarObras() {
     container.innerHTML = "";
 
     obras.forEach(obra => {
+      const idNum = Number(obra.id) || obra.id; 
       const card = document.createElement("div");
       card.className = "col-md-3 col-sm-6 mb-4";
 
@@ -35,9 +36,9 @@ async function carregarObras() {
               <p><small><strong>Ano:</strong> ${obra.ano}</small></p>
             </div>
             <div class="d-flex justify-content-center gap-2 mt-3">
-              <a href="detalhes.html?id=${obra.id}" class="btn btn-outline-secondary btn-sm">Ver</a>
-              <button class="btn btn-outline-secondary btn-sm" onclick="editarObra(${obra.id})">Editar</button>
-              <button class="btn btn-outline-secondary btn-sm" onclick="excluirObra(${obra.id})">Excluir</button>
+              <a href="detalhes.html?id=${idNum}" class="btn btn-outline-secondary btn-sm">Ver</a>
+              <button class="btn btn-outline-secondary btn-sm" onclick="editarObra('${idNum}')">Editar</button>
+              <button class="btn btn-outline-secondary btn-sm" onclick="excluirObra('${idNum}')">Excluir</button>
             </div>
           </div>
         </div>
@@ -80,7 +81,6 @@ async function carregarDestaques() {
           </div>
         </div>
       `;
-
       carouselInner.appendChild(item);
     });
 
@@ -101,7 +101,12 @@ async function adicionarObra(event) {
     return;
   }
 
-  const novaObra = { titulo, ano, descricao, imagem: "assets/image/default.jpg" };
+  const novaObra = { 
+    titulo, 
+    ano: Number(ano), 
+    descricao, 
+    imagem: "assets/image/default.jpg" 
+  };
 
   try {
     const response = await fetch(API_URL, {
@@ -125,19 +130,33 @@ async function adicionarObra(event) {
 }
 
 async function editarObra(id) {
-  const novoTitulo = prompt("Novo título da obra:");
+  const novoTitulo = prompt("Digite o novo título:");
   if (!novoTitulo) return;
 
   try {
+ 
+    const getRes = await fetch(`${API_URL}/${id}`);
+    if (!getRes.ok) throw new Error("Obra não encontrada");
+    const obraAtual = await getRes.json();
+  
+    obraAtual.titulo = novoTitulo;
+  
     const response = await fetch(`${API_URL}/${id}`, {
-      method: "PATCH",
+      method: "PUT",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ titulo: novoTitulo })
+      body: JSON.stringify(obraAtual)
     });
 
-    if (response.ok) carregarObras();
+    if (response.ok) {
+      alert("Obra editada com sucesso!");
+      carregarObras();
+    } else {
+      throw new Error("Erro ao atualizar obra");
+    }
+
   } catch (erro) {
     console.error("Erro ao editar obra:", erro);
+    alert("Erro ao editar obra. Veja o console.");
   }
 }
 
@@ -146,9 +165,15 @@ async function excluirObra(id) {
 
   try {
     const response = await fetch(`${API_URL}/${id}`, { method: "DELETE" });
-    if (response.ok) carregarObras();
+    if (response.ok) {
+      alert("Obra excluída com sucesso!");
+      carregarObras();
+    } else {
+      throw new Error("Erro ao excluir obra");
+    }
   } catch (erro) {
     console.error("Erro ao excluir obra:", erro);
+    alert("Erro ao excluir obra. Veja o console.");
   }
 }
 
